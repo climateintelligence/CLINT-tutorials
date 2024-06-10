@@ -1,0 +1,13 @@
+# conda env update -f environment.yml
+name: duck
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - ipython
+  - jupyterlab
+  - ipywidgets
+  - nodejs
+  # demo
+  - birdy
+  - xarray
