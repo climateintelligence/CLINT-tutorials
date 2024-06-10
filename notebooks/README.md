@@ -1,1 +1,1 @@
-# demo notebooks for duck
+# demo notebooks for clint

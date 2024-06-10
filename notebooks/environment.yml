@@ -1,5 +1,5 @@
 # conda env update -f environment.yml
-name: duck
+name: clint-demo
 channels:
   - conda-forge
 dependencies:
