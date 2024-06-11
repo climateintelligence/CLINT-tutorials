@@ -11,3 +11,4 @@ dependencies:
   # demo
   - birdy
   - xarray
+  - pyproj
