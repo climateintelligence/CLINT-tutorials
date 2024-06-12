@@ -9,6 +9,7 @@ dependencies:
   - ipywidgets
   - nodejs
   # demo
+  - owslib
   - birdy
   - xarray
   - pyproj
