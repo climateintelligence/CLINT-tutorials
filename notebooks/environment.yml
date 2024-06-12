@@ -1,0 +1,15 @@
+# conda env update -f environment.yml
+name: clint-demo
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - ipython
+  - jupyterlab
+  - ipywidgets
+  - nodejs
+  # demo
+  - owslib
+  - birdy
+  - xarray
+  - pyproj
