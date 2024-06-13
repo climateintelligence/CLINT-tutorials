@@ -1,0 +1,6 @@
+#!/bin/bash
+# Post build script for Binder
+
+# Install any additional dependencies
+#pip install ipywidgets
+
