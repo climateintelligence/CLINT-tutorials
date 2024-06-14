@@ -11,6 +11,7 @@ The notebooks demostrate how you can acces the CLINT WPS services using Python w
 Try the following notebooks:
 * duck
 * hawk
+* shearwater
 
 You can also run the CLINT WPS service using the Phoenix web-app:
 https://clint.dkrz.de/
