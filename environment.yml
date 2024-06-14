@@ -11,5 +11,6 @@ dependencies:
   # demo
   - owslib
   - birdy
+  - pandas
   - xarray
   - pyproj
