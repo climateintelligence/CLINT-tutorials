@@ -18,6 +18,8 @@ https://clint.dkrz.de/
 
 The demo contains also a notebook (peafowl) to display netcdf files using the OGC WMS mapping service.
 
+There is also a WMS example with the public adaguc service by KNMI.
+
 ## Prepare
 
 Create conda environment:
